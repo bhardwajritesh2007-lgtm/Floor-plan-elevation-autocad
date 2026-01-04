@@ -1,11 +1,7 @@
 # 🏠 First Floor Residential Building Plan (AutoCAD)
 
-## 📌 Project Overview
-This project represents a *First Floor Plan of a Residential Building* created using *AutoCAD 2020*.  
+## 📌 Project Overview.  
 The drawing includes a detailed architectural layout with room planning, furniture arrangement, staircases, toilets, lobby, and terrace areas.  
-It is prepared as part of an *academic assignment for Civil Engineering / Architecture drafting practice*.
-
----
 
 ## 🛠️ Software Used
 - *AutoCAD 2020*
